@@ -66,7 +66,7 @@
   
     x_data <- rbind(x_train, x_test)
     
-  **Merge rows for x train and test data**
+  **Merge rows for y train and test data**
   
     y_data <- rbind(y_train, y_test)
     
